@@ -46,3 +46,6 @@ http-stager {
 2.执行hashdump后beacon退出问题,新版本v1已更新.
 
 ![运行截图](https://github.com/TryHello/DogCs4.4/blob/main/1.png "运行截图")
+
+
+![FindAv](https://github.com/TryHello/DogCs4.4/blob/main/FindAv.png "FindAv")
