@@ -29,7 +29,7 @@
 
 7.bypass 360核晶模式:截图,Mimikatz,Hashdump(参考论坛一篇文章修改而成)
 
-8.自带一个FindAv插件
+8.自带一个FindAv插件,集成git上的插件:https://github.com/thekingofsex/antiVirusCheck
 
 注：需要用java11运行.
 # Bug
