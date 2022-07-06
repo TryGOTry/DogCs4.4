@@ -10,6 +10,8 @@
 
 首发T00ls.net:https://www.t00ls.com/thread-66233-1-1.html
 
+个人博客:https://www.nctry.com/2630.html
+
 希望尽量别乱传.
 
 仅限t00ls成员使用.
