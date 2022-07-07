@@ -34,6 +34,20 @@
 8.自带一个FindAv插件,集成git上的插件:https://github.com/thekingofsex/antiVirusCheck
 
 注：需要用java11运行.
+# 关于特征
+
+今天有朋友和我说什么JARM指纹被加入规则库了？这里有几个解决方法：
+
+1.用反向代理
+
+2.修改java运行配置（找到java安装目录,打开conf/security/java.security 文件）
+
+修改jdk.tls.disabledAlgorithms处的部分,大概736行，如图：
+
+![JARM](https://github.com/TryHello/DogCs4.4/blob/main/jarm.png "JARM")
+
+像图片那样新加一个TLSv1.3即可
+
 # Bug
 
 1.默认64位木马运行的时候向c2请求payload返回404，但是32位木马是正常的，因为StagerUrl那块没写好,验证出了问题，但是可以利用profile文件自定义http-stager解决.
