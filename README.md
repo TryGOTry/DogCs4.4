@@ -12,7 +12,7 @@
 
 个人博客:https://www.nctry.com/2630.html
 
-希望尽量别乱传.
+希望尽量别乱传.（ps:用windows解压,mac解压有问题）
 
 仅限t00ls成员使用.
 # 修改说明
