@@ -65,3 +65,6 @@ http-stager {
 
 
 ![FindAv](https://github.com/TryHello/DogCs4.4/blob/main/FindAv.png "FindAv")
+
+
+2022.07.19修复vnc执行退出bug
