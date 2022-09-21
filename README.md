@@ -18,7 +18,7 @@
 
 ![fuck](https://github.com/TryHello/DogCs4.4/blob/main/fuck.png "fuck")
 
-# dogcsv2.1 修复2022.09.21 fix CVE-2022-39197
+# 修复2022.09.21 dogcsv2.1  fix CVE-2022-39197
 
 新出了个漏洞,就简单更新一下吧。简单修复了一下最新出来的xss漏洞.
 
