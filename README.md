@@ -27,3 +27,4 @@
 # Ps 用winrar解压,或者mac解压
 
 # 注：CVE-2022-39197并没有完全修复,应该做全局过滤才行.下个版本修复！！！ 2022.09.26
+# 修复补丁直接用这个哥们的patch补丁即可:https://github.com/burpheart/CVE-2022-39197-patch
