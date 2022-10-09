@@ -12,6 +12,13 @@
 
 ![fuck](https://github.com/TryHello/DogCs4.4/blob/main/fuck.png "fuck")
 
+关于64不上线bug:profile文件里添加如下:
+```
+http-stager {
+    set uri_x86 "/XXXXn";
+    set uri_x64 "/XXXXXX";
+        }
+```
 # 修复2022.09.21 dogcsv2.1  fix CVE-2022-39197
 
 新出了个漏洞,就简单更新一下吧。简单修复了一下最新出来的xss漏洞.
