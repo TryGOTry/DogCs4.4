@@ -2,16 +2,6 @@
 4.4修改版
 
 
-# 后续
-
-所以决定不再更新dogcs了,以后也不放二开的出来了。
-
-本来打算放出近期改的dogcs4.5,加了谷歌验证码和ip白名单等一些功能,但是因为某些傻逼，后续决定不再公开4.5。
-
-现在的dogcs我也不删了,说有后门的自己下载jar包查就行，解压密码啥的也不放了，自己找吧。
-
-![fuck](https://github.com/TryHello/DogCs4.4/blob/main/fuck.png "fuck")
-
 关于64不上线bug:profile文件里添加如下:
 ```
 http-stager {
