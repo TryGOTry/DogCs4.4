@@ -33,3 +33,5 @@ http-stager {
 # 2022.10.19 v2.4 修复ui显示图标bug 感谢这位@D1sAbl4 提出的问题和修复方法.
 
 # 2022.11.09 预计今年过年更新dogcs4.5。
+
+# 新版本已更新(密码不同):https://github.com/TryGOTry/CobaltStrike_Cat_4.5
